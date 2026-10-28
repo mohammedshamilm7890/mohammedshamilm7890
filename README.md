@@ -46,9 +46,9 @@ Currently Improving
 
 Connect With Me
 
-LinkedIn: Add your LinkedIn profile URL here
-Portfolio: Add your published portfolio website URL here
-Email: Use the email displayed on your GitHub profile
+LinkedIn:  www.linkedin.com/in/mohammed-shamil-m
+Portfolio:https://shamil-data-analyst-portfolio-one.vercel.app/
+Email:  mohammedshamilm17@gmail.com
 
 I'm open to connecting with data professionals, collaborating on analytics projects, and exploring Data Analyst opportunities.
 
